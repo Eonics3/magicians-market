@@ -1,4 +1,4 @@
-# magicians-market
+# Magicians-Market
 ## ☁️ Inspiration
 Magician's have real talent...they fool us into universe defying moves just with their hands. From close-up to big, there are many types of magicians. Unfortunately, there isn't a "magician" job, and many magicians can't pay bills or are homeless because they can't find work. Our app strives to solve this by creating a platform where magicians and employers can meet.
 
